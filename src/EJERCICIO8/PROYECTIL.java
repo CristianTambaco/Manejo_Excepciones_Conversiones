@@ -2,6 +2,10 @@ package EJERCICIO8;
 
 public class PROYECTIL {
 
+    //Ejercicio 8
+    //Se disparan dos proyectiles desde el suelo, ambas con velocidad inicial de 20 m/s
+    // y ángulos de 50 y 40 grados. ¿Cómo son los alcances de ambos proyectiles?
+
     //Atributos
     double GRAVEDAD = 9.8;
     double PI = 3.1416;
