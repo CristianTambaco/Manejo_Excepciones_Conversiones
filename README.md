@@ -75,9 +75,13 @@ Se disparan dos proyectiles desde el suelo, ambas con velocidad inicial de 20 m/
 
 ![Captura de pantalla 2024-11-12 173138](https://github.com/user-attachments/assets/651283d0-ce89-40a4-9a37-5dbac0710347)
 
-•	Cerrar el Scaner.
+•	Cerrar el Scanner.
 
 ![Captura de pantalla 2024-11-12 173147](https://github.com/user-attachments/assets/c925fd77-fd50-4add-8f61-7c9fce92d0d0)
+
+•	Pantalla de salida.
+
+![Captura de pantalla 2024-11-12 202511](https://github.com/user-attachments/assets/288107b9-5492-402c-b3d6-2cdc6c3f461f)
 
 
 Script:
