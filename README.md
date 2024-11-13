@@ -2,6 +2,7 @@
 # Manejo de Excepciones y Conversiones y la Aplicación de Principios de POO 
 
 Ejercicio 8
+
 Se disparan dos proyectiles desde el suelo, ambas con velocidad inicial de 20 m/s y ángulos de 50 y 40 grados. ¿Cómo son los alcances de ambos proyectiles?
 
 
